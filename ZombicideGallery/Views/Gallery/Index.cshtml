@@ -1,0 +1,53 @@
+@model IEnumerable<ZombicideGallery.Models.Character>
+
+@{
+    ViewData["Title"] = "Zombicide Character Gallery";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Zombicide Character Gallery</h1>
+</div>
+
+<div class="container">
+    <div class="row">
+        @foreach (var character in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@character.ImagePath" class="card-img-top" alt="@character.Name" style="height: 300px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@character.Name</h5>
+                        <p class="card-text">@character.Description</p>
+                        <div class="character-stats">
+                            <p><strong>Type:</strong> @character.Type</p>
+                            <p><strong>Health:</strong> @character.Health</p>
+                            <p><strong>Skills:</strong> @string.Join(", ", character.Skills)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .card {
+        transition: transform 0.2s;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .card:hover {
+        transform: scale(1.02);
+    }
+
+    .character-stats {
+        background-color: #f8f9fa;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+
+    .character-stats p {
+        margin-bottom: 5px;
+    }
+</style>
