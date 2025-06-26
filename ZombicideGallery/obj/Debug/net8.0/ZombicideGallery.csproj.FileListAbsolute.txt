@@ -28,3 +28,4 @@ C:\code\zombiecide\ZombicideGallery\obj\Debug\net8.0\refint\ZombicideGallery.dll
 C:\code\zombiecide\ZombicideGallery\obj\Debug\net8.0\ZombicideGallery.pdb
 C:\code\zombiecide\ZombicideGallery\obj\Debug\net8.0\ZombicideGallery.genruntimeconfig.cache
 C:\code\zombiecide\ZombicideGallery\obj\Debug\net8.0\ref\ZombicideGallery.dll
+C:\code\zombiecide\ZombicideGallery\obj\Debug\net8.0\ZombicideGallery.sourcelink.json

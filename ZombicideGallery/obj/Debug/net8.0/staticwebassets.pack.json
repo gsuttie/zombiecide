@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\Bruce.png",
+      "PackagePath": "staticwebassets\\images\\characters\\Bruce.png"
+    },
+    {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\Derek.png",
+      "PackagePath": "staticwebassets\\images\\characters\\Derek.png"
+    },
+    {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\Elle.png",
+      "PackagePath": "staticwebassets\\images\\characters\\Elle.png"
+    },
+    {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\Phil.png",
+      "PackagePath": "staticwebassets\\images\\characters\\Phil.png"
+    },
+    {
       "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\amy.png",
       "PackagePath": "staticwebassets\\images\\characters\\amy.png"
     },
@@ -23,6 +39,14 @@
     {
       "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\josh.png",
       "PackagePath": "staticwebassets\\images\\characters\\josh.png"
+    },
+    {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\ned.png",
+      "PackagePath": "staticwebassets\\images\\characters\\ned.png"
+    },
+    {
+      "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\images\\characters\\wanda.png",
+      "PackagePath": "staticwebassets\\images\\characters\\wanda.png"
     },
     {
       "Id": "C:\\code\\zombiecide\\ZombicideGallery\\wwwroot\\js\\site.js",
