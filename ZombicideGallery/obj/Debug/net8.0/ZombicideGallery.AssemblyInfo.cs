@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZombicideGallery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a9f9899d0a78765355319dc79719c47bcb8696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73bddbb61787d0ecd81e77a52d00a11eb46813d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZombicideGallery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZombicideGallery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
